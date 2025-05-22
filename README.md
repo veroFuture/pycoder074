@@ -1,11 +1,33 @@
-- 👋 Hi, I’m @pycoder074
-- 👀 I’m interested in artificial intelligence and app development. 
-- 🌱 I’m currently learning cyber security 
-- 💞️ I’m looking to collaborate on my password manager 
-- 📫 How to reach me email at elliott.kelly08@outlook.com
-- 😄 Pronouns: He/Him
+Hey, I’m Elliott — coder, builder, and all-around tech visionary since 2016. From mastering Python to diving deep into OS bootloaders and crafting full operating systems, I’m here to disrupt and build the future.
 
-<!---
-pycoder074/pycoder074 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⸻
+
+🔥 What I’m About
+	•	Building Projects:
+Creator of Vero and CEO of Verity, a next-gen sustainable and open source tech startup pushing ethical and people focused software.
+Founder of RealTalk, an AI-powered news platform fighting bias and misinformation.
+Developing VerOS, my own operating system with simplicity and power in mind.
+	•	Skills & Tech:
+Python, C++ 
+(bootloaders, anyone?), AI & NLP tools, systems programming, JS, HTML5
+Passion for clean, sustainable tech that empowers users.
+	•	Interests:
+Cycling through rugged terrains, fueled by Fleetwood Mac, Greta Van Fleet and Slipknot.
+Always pushing boundaries — in code and life.
+
+⸻
+
+⚡ Why Follow Me?
+
+If you want to see a coder who’s not just writing scripts but building for the people, pushing for transparency in tech, and creating real impact, you’re in the right place. Let’s innovate together, disrupt the status quo, and make tech that makes a postive impact on our world
+
+⸻
+
+📫 Get in Touch
+
+Hit me up if you want to collab, share ideas, or just chat about OS kernels, AI, or heavy metal riffs. 
+Email at **verityproject@outlook.com**
+
+⸻
+
+_“God knows if you feel defeated, you have been cheated. You have retreated"_ - Greta Van Fleet, Age of Machine
