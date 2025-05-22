@@ -2,19 +2,20 @@ Hey, I’m Elliott! From mastering Python to diving deep into OS Development, We
 
 ⸻
 
-🔥 What I’m About
-	•	Building Projects:
-Creator of Vero and CEO of Verity, a next-gen sustainable and open source tech startup pushing ethical and people focused software.
-Founder of RealTalk, an AI-powered news platform fighting bias and misinformation.
-Developing VerOS, my own operating system with simplicity and power in mind.
-	•	Skills & Tech:
-Python, C++ 
-(bootloaders, anyone?), AI & NLP tools, systems programming, JS, HTML5
-Passion for clean, sustainable tech that empowers users.
-	•	Interests:
-Cycling through rugged terrains, fueled by Fleetwood Mac, Greta Van Fleet and Slipknot.
-Always pushing boundaries — in code and life.
+🔥 **What I’m About**
 
+* **Building Projects:**  
+  - Creator of Vero and CEO of Verity, a next-gen sustainable and open source tech startup pushing ethical and people-focused software.  
+  - Founder of RealTalk, an AI-powered news platform fighting bias and misinformation.  
+  - Developing VerOS, my own operating system with simplicity and power in mind.
+
+* **Skills & Tech:**  
+  Python, C++ (bootloaders, anyone?), AI & NLP tools, systems programming, JavaScript, HTML5.  
+  Passion for clean, sustainable tech that empowers users.
+
+* **Interests:**  
+  Cycling through rugged terrains, fueled by Fleetwood Mac, Greta Van Fleet, and Slipknot.  
+  Always pushing boundaries — in code and life.
 ⸻
 
 ⚡ Why Follow Me?
