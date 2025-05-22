@@ -1,4 +1,4 @@
-Hey, I’m Elliott — coder, builder, and all-around tech visionary since 2016. From mastering Python to diving deep into OS bootloaders and crafting full operating systems, I’m here to disrupt and build the future.
+Hey, I’m Elliott! From mastering Python to diving deep into OS Development, Web Development and AI, I’m here to disrupt and build the future.
 
 ⸻
 
